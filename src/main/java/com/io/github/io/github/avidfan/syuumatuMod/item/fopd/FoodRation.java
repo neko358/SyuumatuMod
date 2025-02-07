@@ -1,4 +1,4 @@
-package com.io.github.io.github.ユーザー名.syuumatuMod.item.fopd;
+package com.io.github.io.github.avidfan.syuumatuMod.item.fopd;
 
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.Item;

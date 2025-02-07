@@ -1,6 +1,6 @@
-package com.io.github.io.github.ユーザー名.syuumatuMod.regi.tab;
+package com.io.github.io.github.avidfan.syuumatuMod.regi.tab;
 
-import com.io.github.io.github.ユーザー名.syuumatuMod.regi.SyuumatuModItems;
+import com.io.github.io.github.avidfan.syuumatuMod.regi.SyuumatuModItems;
 import net.minecraft.world.item.Item;
 
 public class syuumatuMain {

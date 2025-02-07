@@ -1,4 +1,4 @@
-package com.io.github.io.github.ユーザー名.syuumatuMod.item.tool;
+package com.io.github.io.github.avidfan.syuumatuMod.item.tool;
 
 import net.minecraft.world.item.PickaxeItem;
 

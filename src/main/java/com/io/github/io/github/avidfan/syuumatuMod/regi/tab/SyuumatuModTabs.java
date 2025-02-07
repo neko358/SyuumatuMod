@@ -1,7 +1,7 @@
-package com.io.github.io.github.ユーザー名.syuumatuMod.regi.tab;
+package com.io.github.io.github.avidfan.syuumatuMod.regi.tab;
 
-import com.io.github.io.github.ユーザー名.syuumatuMod.main.SyuumatuMod;
-import com.io.github.io.github.ユーザー名.syuumatuMod.regi.SyuumatuModItems;
+import com.io.github.io.github.avidfan.syuumatuMod.main.SyuumatuMod;
+import com.io.github.io.github.avidfan.syuumatuMod.regi.SyuumatuModItems;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.CreativeModeTab;

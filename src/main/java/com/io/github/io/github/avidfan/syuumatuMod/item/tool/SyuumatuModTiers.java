@@ -1,8 +1,8 @@
-package com.io.github.io.github.ユーザー名.syuumatuMod.item.tool;
+package com.io.github.io.github.avidfan.syuumatuMod.item.tool;
 
-import com.io.github.io.github.ユーザー名.syuumatuMod.main.SyuumatuMod;
-import com.io.github.io.github.ユーザー名.syuumatuMod.regi.SyuumatuModItems;
-import com.io.github.io.github.ユーザー名.syuumatuMod.regi.SyuumatuModTags;
+import com.io.github.io.github.avidfan.syuumatuMod.main.SyuumatuMod;
+import com.io.github.io.github.avidfan.syuumatuMod.regi.SyuumatuModItems;
+import com.io.github.io.github.avidfan.syuumatuMod.regi.SyuumatuModTags;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.item.Tiers;
 import net.minecraft.world.item.crafting.Ingredient;

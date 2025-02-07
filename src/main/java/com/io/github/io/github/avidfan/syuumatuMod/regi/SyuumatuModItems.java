@@ -1,9 +1,9 @@
-package com.io.github.io.github.ユーザー名.syuumatuMod.regi;
+package com.io.github.io.github.avidfan.syuumatuMod.regi;
 
-import com.io.github.io.github.ユーザー名.syuumatuMod.item.ItemPlasticingot;
-import com.io.github.io.github.ユーザー名.syuumatuMod.item.fopd.FoodRation;
-import com.io.github.io.github.ユーザー名.syuumatuMod.item.tool.ToolPlasticPickaxe;
-import com.io.github.io.github.ユーザー名.syuumatuMod.main.SyuumatuMod;
+import com.io.github.io.github.avidfan.syuumatuMod.item.ItemPlasticingot;
+import com.io.github.io.github.avidfan.syuumatuMod.item.fopd.FoodRation;
+import com.io.github.io.github.avidfan.syuumatuMod.item.tool.ToolPlasticPickaxe;
+import com.io.github.io.github.avidfan.syuumatuMod.main.SyuumatuMod;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.PickaxeItem;
 import net.minecraftforge.registries.DeferredRegister;

@@ -1,6 +1,6 @@
-package com.io.github.io.github.ユーザー名.syuumatuMod.regi;
+package com.io.github.io.github.avidfan.syuumatuMod.regi;
 
-import com.io.github.io.github.ユーザー名.syuumatuMod.main.SyuumatuMod;
+import com.io.github.io.github.avidfan.syuumatuMod.main.SyuumatuMod;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.tags.BlockTags;
 import net.minecraft.tags.ItemTags;
