@@ -1,8 +1,8 @@
-package com.neko.syuumatuMod.item.tool;
+package com.io.github.io.github.ユーザー名.syuumatuMod.item.tool;
 
-import com.neko.syuumatuMod.main.SyuumatuMod;
-import com.neko.syuumatuMod.regi.SyuumatuModItems;
-import com.neko.syuumatuMod.regi.SyuumatuModTags;
+import com.io.github.io.github.ユーザー名.syuumatuMod.main.SyuumatuMod;
+import com.io.github.io.github.ユーザー名.syuumatuMod.regi.SyuumatuModItems;
+import com.io.github.io.github.ユーザー名.syuumatuMod.regi.SyuumatuModTags;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.item.Tiers;
 import net.minecraft.world.item.crafting.Ingredient;

@@ -1,4 +1,4 @@
-package com.neko.syuumatuMod.item.fopd;
+package com.io.github.io.github.ユーザー名.syuumatuMod.item.fopd;
 
 import net.minecraft.world.food.FoodProperties;
 

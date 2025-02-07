@@ -1,11 +1,7 @@
-package com.neko.syuumatuMod.regi.tab;
+package com.io.github.io.github.ユーザー名.syuumatuMod.regi.tab;
 
-import com.neko.syuumatuMod.item.fopd.SyuumatuModFoods;
-import com.neko.syuumatuMod.regi.SyuumatuModItems;
-import net.minecraft.world.food.FoodProperties;
-import net.minecraft.world.food.Foods;
+import com.io.github.io.github.ユーザー名.syuumatuMod.regi.SyuumatuModItems;
 import net.minecraft.world.item.Item;
-import net.minecraft.world.item.Items;
 
 public class syuumatuMain {
 

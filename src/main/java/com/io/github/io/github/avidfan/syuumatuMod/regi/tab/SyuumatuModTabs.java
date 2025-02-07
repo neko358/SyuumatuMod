@@ -1,17 +1,14 @@
-package com.neko.syuumatuMod.regi.tab;
+package com.io.github.io.github.ユーザー名.syuumatuMod.regi.tab;
 
-import com.neko.syuumatuMod.main.SyuumatuMod;
-import com.neko.syuumatuMod.regi.SyuumatuModItems;
+import com.io.github.io.github.ユーザー名.syuumatuMod.main.SyuumatuMod;
+import com.io.github.io.github.ユーザー名.syuumatuMod.regi.SyuumatuModItems;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.ItemStack;
-import net.minecraft.world.level.block.Block;
-import net.minecraft.world.level.block.Blocks;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.RegistryObject;
-import org.checkerframework.checker.units.qual.C;
 
 public class SyuumatuModTabs {
 

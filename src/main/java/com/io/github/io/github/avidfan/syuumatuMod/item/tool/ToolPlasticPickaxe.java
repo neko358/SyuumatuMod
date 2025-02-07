@@ -1,7 +1,6 @@
-package com.neko.syuumatuMod.item.tool;
+package com.io.github.io.github.ユーザー名.syuumatuMod.item.tool;
 
 import net.minecraft.world.item.PickaxeItem;
-import net.minecraft.world.item.Tier;
 
 public class ToolPlasticPickaxe extends PickaxeItem {
 

@@ -1,7 +1,7 @@
-package com.neko.syuumatuMod.main;
+package com.io.github.io.github.ユーザー名.syuumatuMod.main;
 
-import com.neko.syuumatuMod.regi.SyuumatuModItems;
-import com.neko.syuumatuMod.regi.tab.SyuumatuModTabs;
+import com.io.github.io.github.ユーザー名.syuumatuMod.regi.SyuumatuModItems;
+import com.io.github.io.github.ユーザー名.syuumatuMod.regi.tab.SyuumatuModTabs;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
